@@ -1,0 +1,3 @@
+vulntoES_modified.py -i DA_Server_Weekly_Apr22.nessus -e localhost -I vulncombined -r nessus -c SQL_DA;
+vulntoES_modified.py -i DA_Server_Weekly_Apr28.nessus -e localhost -I vulncombined -r nessus -c SQL_DA;
+vulntoES_modified.py -i DA_Server_Weekly_May05.nessus -e localhost -I vulncombined -r nessus -c SQL_DA;
